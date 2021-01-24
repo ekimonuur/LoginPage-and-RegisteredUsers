@@ -70,8 +70,10 @@ Like <details>
 <ul><li>guest</li>
 <li>admin</li><li>superAdmin</li></ul>
 </details>
-[ ] Enabled
+[ ] Enabled <br>
+
 *****
+
 #### Specifications of Form
 Each input field, dropdown menu and select list field should be *centered* and aligned equally in size.
 The option clicked on in the Dropdown menu should be displayed in *blue*.
