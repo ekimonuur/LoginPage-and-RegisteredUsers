@@ -60,11 +60,16 @@ New User should be written in the title. Above the form field should continue th
 *******
 The content of the form should be as follows.
 Username    : ___________ <br>
-Display Name: ___________
-Phone    : ___________
-Email    : ___________
+Display Name: ___________ <br>
+Phone    : ___________ <br>
+Email    : ___________ <br>
 There should be **guest**, **admin** and **superAdmin** options in the form of dropdown menu input. In the explanation part, it should write **select user roles** in the input.
 Enabled title include this
+Like <details>
+<summary></summary>
+<ul><li>guest</li>
+<li>admin</li><li>superAdmin</li></ul>
+</details>
 [ ] Enabled
 *****
 #### Specifications of Form
