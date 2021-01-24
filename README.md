@@ -58,7 +58,7 @@ The information in the table will be taken from the database.
 New User should be written in the title. Above the form field should continue throughout the form field. The background color should be *pale gray* and text color is *black*.
 
 *******
-The content of the form should be as follows.
+The content of the form should be as follows. <br>
 Username    : ___________ <br>
 Display Name: ___________ <br>
 Phone    : ___________ <br>
