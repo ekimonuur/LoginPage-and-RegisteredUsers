@@ -1,2 +1,2 @@
-#Added h1 s
-##added h2s
+# example site
+this is a example markdown
