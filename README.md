@@ -59,7 +59,7 @@ New User should be written in the title. Above the form field should continue th
 
 *******
 The content of the form should be as follows.
-Username    : ___________
+Username    : ___________ <br>
 Display Name: ___________
 Phone    : ___________
 Email    : ___________
