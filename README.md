@@ -1,2 +1,2 @@
 # example site
-this is a example markdown
+user interface specification document for the user management screen
